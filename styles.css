@@ -148,7 +148,7 @@ nav ul li a:hover {
 }
 
 .parallax2 {
-    background-image: url('/printer.png');
+    background-image: url('https://github.com/Shaggy-R/mkprint/blob/main/printer.png');
 }
 
 .parallax .content {
